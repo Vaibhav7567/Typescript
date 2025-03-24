@@ -14,4 +14,9 @@ class User{
 }
 let u = new User();
 
+
+function newUser()
+{
+    
+}
 export{}
