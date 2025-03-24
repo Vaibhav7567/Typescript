@@ -1,0 +1,18 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build and distribution folders
+dist/
+build/
+
+# Ignore environment and log files
+.env
+*.log
+
+# Ignore TypeScript compilation outputs
+*.tsbuildinfo
+
+# Ignore IDE files
+.vscode/
+.idea/
+.DS_Store
